@@ -2,16 +2,21 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Examples
-    numbered: True
+  - caption: Introduction to Data Goods
     chapters:
-      - file: notebooks/world-bank-api.ipynb
-      - file: notebooks/world-bank-package.ipynb
-      - file: notebooks/nasa-apod.ipynb
-      - file: notebooks/bibliography.ipynb
-  - caption: Gallery
+      - file: docs/1-intro-to-data-goods
+  - caption: Data
     chapters:
-      - file: docs/gallery
+      - file: docs/2-data
+  - caption: Reusable Data Products
+    chapters:
+      - file: docs/3-reusable-data-products
+  - caption: Insights and Indicators
+    chapters:
+      - file: docs/4-sample-insights-and-ind
+  - caption: Acknowledgements
+    chapters:
+      - file: docs/6-team
   - caption: Additional Resources
     chapters:
       - url: https://datapartnership.org
