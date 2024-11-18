@@ -1,34 +1,16 @@
-# Iraq - Baghdad Transport Planning
+# Baghdad Transportation Planning
 
-### Assignment
+The Iraq Transportation team would like to use Waze data to understand traffic congestion in the city of Baghdad. 
 
-tbc
+## Contents
 
+```{tableofcontents}
+```
 
-### Data
+### Data Availability Statement
 
-tbc
+Restrictions may apply to the data that support the findings of this study. Data received from the private sector through the Development Data Partnership are subject to the terms and conditions of the data license agreement and the "Official Use Only" data classification. These data are available upon request through the [Development Data Partnership](https://datapartnership.org). Licensing and access information for all other datasets are included in the documentation.
 
+## License
 
-### Reusable Data Science Products
-
-The following data products are included in this project:
-
-tbc
-
-
-### Insights and Indicators
-
-The team is combining these data products to prepare high-level analytics and indicators, such as:
-
-tbc
-
-
-### License
-
-This projects is licensed under the [**Mozilla Public License**](https://opensource.org/license/mpl-2-0/) - see the [LICENSE](LICENSE) file for details.
-
-
-### Code of Conduct
-
-The <span style="color:#3EACAD">template</span> maintains a [Code of Conduct](docs/CODE_OF_CONDUCT.md) to ensure an inclusive and respectful environment for everyone. Please adhere to it in all interactions within our community.
+This project is licensed under the [**Mozilla Public License**](https://opensource.org/license/mpl-2-0/) - see the [LICENSE](LICENSE) file for details.

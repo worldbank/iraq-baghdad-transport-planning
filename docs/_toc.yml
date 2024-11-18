@@ -8,22 +8,10 @@ parts:
   - caption: Data
     chapters:
       - file: docs/2-data
-  - caption: Reusable Data Products
+  - caption: Transport Planning 2024
     chapters:
-      - file: docs/3-reusable-data-products
-  - caption: Insights and Indicators
-    chapters:
-      - file: docs/4-sample-insights-and-ind
+      - file: notebooks/mobility/waze.ipynb
+      - file: notebooks/air-pollution/air_pollution.ipynb
   - caption: Acknowledgements
     chapters:
       - file: docs/6-team
-  - caption: Additional Resources
-    chapters:
-      - url: https://datapartnership.org
-        title: Development Data Partnership
-      - url: https://wbdatalab.org
-        title: World Bank Data Lab
-      - url: https://www.worldbank.org/en/about/unit/unit-dec
-        title: World Bank DEC
-      - url: https://www.worldbank.org/en/research/dime
-        title: World Bank DIME
