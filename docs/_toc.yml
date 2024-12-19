@@ -2,13 +2,9 @@ format: jb-book
 root: README
 
 parts:
-#  - caption: Data
-#    chapters:
-#      - file: docs/2-data
   - caption: Transport Planning 2024
     chapters:
       - file: notebooks/mobility/waze.ipynb
+        sections:
+          - file: notebooks/mobility/jams-heatmap.ipynb
       - file: notebooks/air-pollution/air_pollution.ipynb
-  - caption: Acknowledgements
-    chapters:
-      - file: docs/6-team
