@@ -7,4 +7,6 @@ parts:
       - file: notebooks/mobility/waze.ipynb
         sections:
           - file: notebooks/mobility/jams-heatmap.ipynb
-      - file: notebooks/air-pollution/air_pollution.ipynb
+      - file: notebooks/air-pollution/README.md
+        sections:
+          - file: notebooks/air-pollution/air_pollution.ipynb
